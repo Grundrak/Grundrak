@@ -1,14 +1,141 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- Banner Image -->
+<img src="https://yourdomain.com/path-to-your-new-banner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+<!-- Profile Section -->
+# 👋 Hi there! I'm **Sajir Ahmed**
 
+**Full Stack Web Developer** based in **Casablanca**, Morocco.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+📫 **Contact Me:**
+- **📍 Adresse:** Casablanca
+- **📞 Téléphone:** +212 614538862
+- **✉️ Email:** [ahmed.sajir7@gmail.com](mailto:ahmed.sajir7@gmail.com)
+- **🔗 LinkedIn:** [linkedin.com/in/sa-ah/](https://linkedin.com/in/sa-ah/)
+- **🐱 GitHub:** [github.com/Grundrak](https://github.com/Grundrak)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+---
+
+## 🚀 Profil
+
+Développeur full stack passionné, spécialisé dans les technologies **MERN** (MongoDB, Express.js, React, Node.js), **PHP Laravel**, et **Vue.js**. Fort d'une expérience couvrant à la fois le frontend et le backend, je conçois et développe des applications web complètes et performantes. Doté d'un esprit analytique et d'une soif d'apprendre, je m'épanouis dans la résolution de problèmes complexes et cherche constamment à élargir mes compétences pour rester à la pointe du développement web.
+
+---
+
+## 💼 Expériences
+
+### 🖥️ Développeur Web Front-end
+**NADIS Performance**  
+_Fév. 2024 - Mai 2024_
+
+- Contribution à la création des pages en Figma.
+- Élaboration de pages de destination.
+- Création d'interfaces utilisateur utilisant React.js.
+- Conception et développement d'interfaces utilisateur interactives et responsives pour des applications web complexes, utilisant React.js, Redux, HTML5, CSS3 et JavaScript.
+
+### 🌐 Développeur Web Full-Stack
+**ARK-X Talent Factory**  
+_Août 2023 - Déc. 2023_
+
+- Conception complète d’applications web.
+- Collaboration en équipe selon la méthode Agile.
+- Mentorat par des tech leads seniors.
+
+### ⚡ Technicien Expert des Systèmes Électriques
+**TMMS OCP**  
+_Août 2022 - Août 2023_
+
+- Installation et montage des armoires électriques.
+- Installation de variateurs de vitesse à fréquence.
+- Étalonnage des équipements d’instrumentation.
+
+---
+
+## 🎓 Formations
+
+### 🛠️ Formation PHP Laravel
+**Simplon**  
+_Mars 2024 - Oct. 2024_
+
+### 🌐 Bootcamp Full-stack (MERN)
+**Jobintech**  
+_Août 2023 - Déc. 2023_
+
+### 🎓 Génie Industriel et Maintenance (GIM)
+**École Supérieure de Technologie Meknés**  
+_Sep. 2018 - Juin 2020_
+
+---
+
+## 🚀 Projets
+
+### 🛒 **Project E-Commerce Multivendeur**
+**Technologies:** MERN (MongoDB, Express.js, React.js, Node.js, Tailwind)  
+Développement d'une plateforme e-commerce complète. Conception et implémentation de fonctionnalités clés telles que la gestion des utilisateurs, le panier d'achat et le processus de paiement.
+
+### 👁️ **Site Web Cabinet Ophtalmologique**
+**Technologies:** React.js, Material-UI  
+Développement d'un site web responsive pour un cabinet d'ophtalmologie.  
+**Fonctionnalités:** Présentation des services, biographie du médecin, système de rendez-vous. Utilisation de React Router pour la navigation et de composants réutilisables pour la maintenance.
+
+---
+
+## 🛠️ Compétences et Qualifications Complémentaires
+
+### 💻 **Compétences Techniques**
+- **Front End:** HTML, CSS, JavaScript, React.js, Redux, Tailwind, Vue.js
+- **Back-End:** JavaScript, Laravel, Node.js, Express.js, PHP, RESTful API, Postman
+- **Database:** MongoDB, MySQL
+
+### 🌐 **Langues**
+- **Français:** Intermédiaire
+- **Anglais:** Intermédiaire
+- **Allemand:** Notions de base
+
+### 🏅 **Certifications**
+- **Automated Selenium Test** - Orange Digital Center - 2024
+- **AWS DevOps Tools** - Orange Digital Center - 2024
+
+---
+
+## 💡 Technologies et Outils
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grundrak&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grundrak&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grundrak&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [ahmed.sajir7@gmail.com](mailto:ahmed.sajir7@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sa-ah/](https://linkedin.com/in/sa-ah/)
+- **GitHub:** [github.com/Grundrak](https://github.com/Grundrak)
