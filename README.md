@@ -4,7 +4,9 @@
 <!-- Profile Section -->
 # 👋 Hi there! I'm **Ahmed Sajir**
 
-**Full Stack Web Developer** based in **Casablanca**, Morocco.
+---
+As a Full-Stack Developer, I specialize in creating modern, responsive, user-friendly web applications. I leverage cutting-edge technologies to build dynamic solutions, transforming creative ideas into functional and efficient digital experiences. I excel in front-end interface design and back-end system development, always adopting a problem-solving mindset and delivering high-quality results. Beyond the technical aspects of my work, I am deeply curious and inspired by exploring new cultures and experiences, which fuels my creativity and drives me to innovate in every project I undertake.
+
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Grundrak}/count.svg)
 ---
