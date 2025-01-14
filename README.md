@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="i.imgur.com/pQzb4Bt.jpeg" alt="GitHub Banner" width="100%" />
+<img src="https://res.cloudinary.com/dam7phgic/image/upload/v1736870165/s9gcmdsxilnpnfrsi2wg.jpg" alt="GitHub Banner" width="100%" />
 
 <!-- Profile Section -->
 # 👋 Hi there! I'm **Sajir Ahmed**
