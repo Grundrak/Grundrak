@@ -21,75 +21,10 @@ Développeur full stack passionné, spécialisé dans les technologies **MERN** 
 
 ---
 
-## 💼 Expériences
-
-### 🖥️ Développeur Web Front-end
-**NADIS Performance**  
-_Fév. 2024 - Mai 2024_
-
-- Contribution à la création des pages en Figma.
-- Élaboration de pages de destination.
-- Création d'interfaces utilisateur utilisant React.js.
-- Conception et développement d'interfaces utilisateur interactives et responsives pour des applications web complexes, utilisant React.js, Redux, HTML5, CSS3 et JavaScript.
-
-### 🌐 Développeur Web Full-Stack
-**ARK-X Talent Factory**  
-_Août 2023 - Déc. 2023_
-
-- Conception complète d’applications web.
-- Collaboration en équipe selon la méthode Agile.
-- Mentorat par des tech leads seniors.
-
-### ⚡ Technicien Expert des Systèmes Électriques
-**TMMS OCP**  
-_Août 2022 - Août 2023_
-
-- Installation et montage des armoires électriques.
-- Installation de variateurs de vitesse à fréquence.
-- Étalonnage des équipements d’instrumentation.
-
----
-
-## 🎓 Formations
-
-### 🛠️ Formation PHP Laravel
-**Simplon**  
-_Mars 2024 - Oct. 2024_
-
-### 🌐 Bootcamp Full-stack (MERN)
-**Jobintech**  
-_Août 2023 - Déc. 2023_
-
-### 🎓 Génie Industriel et Maintenance (GIM)
-**École Supérieure de Technologie Meknés**  
-_Sep. 2018 - Juin 2020_
-
----
-
-## 🚀 Projets
-
-### 🛒 **Project E-Commerce Multivendeur**
-**Technologies:** MERN (MongoDB, Express.js, React.js, Node.js, Tailwind)  
-Développement d'une plateforme e-commerce complète. Conception et implémentation de fonctionnalités clés telles que la gestion des utilisateurs, le panier d'achat et le processus de paiement.
-
-### 👁️ **Site Web Cabinet Ophtalmologique**
-**Technologies:** React.js, Material-UI  
-Développement d'un site web responsive pour un cabinet d'ophtalmologie.  
-**Fonctionnalités:** Présentation des services, biographie du médecin, système de rendez-vous. Utilisation de React Router pour la navigation et de composants réutilisables pour la maintenance.
-
----
-
-## 🛠️ Compétences et Qualifications Complémentaires
-
-### 💻 **Compétences Techniques**
-- **Front End:** HTML, CSS, JavaScript, React.js, Redux, Tailwind, Vue.js
-- **Back-End:** JavaScript, Laravel, Node.js, Express.js, PHP, RESTful API, Postman
-- **Database:** MongoDB, MySQL
 
 ### 🌐 **Langues**
 - **Français:** Intermédiaire
 - **Anglais:** Intermédiaire
-- **Allemand:** Notions de base
 
 ### 🏅 **Certifications**
 - **Automated Selenium Test** - Orange Digital Center - 2024
@@ -128,14 +63,5 @@ Développement d'un site web responsive pour un cabinet d'ophtalmologie.
 
 ---
 
-## 📝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grundrak&layout=compact&theme=dracula&hide_border=true)
 
----
-
-## 📫 Get in Touch
-
-- **Email:** [ahmed.sajir7@gmail.com](mailto:ahmed.sajir7@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sa-ah/](https://linkedin.com/in/sa-ah/)
-- **GitHub:** [github.com/Grundrak](https://github.com/Grundrak)
