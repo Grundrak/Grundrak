@@ -4,11 +4,12 @@
 <!-- Profile Section -->
 # 👋 Hi there! I'm **Ahmed Sajir**
 
----
-As a Full-Stack Developer, I specialize in creating modern, responsive, user-friendly web applications. I leverage cutting-edge technologies to build dynamic solutions, transforming creative ideas into functional and efficient digital experiences. I excel in front-end interface design and back-end system development, always adopting a problem-solving mindset and delivering high-quality results. Beyond the technical aspects of my work, I am deeply curious and inspired by exploring new cultures and experiences, which fuels my creativity and drives me to innovate in every project I undertake.
 
----
+As a Full-Stack Developer, I create modern, responsive, user-friendly web applications. I leverage cutting-edge technologies to build dynamic solutions, transforming creative ideas into functional and efficient digital experiences. I excel in front-end interface design and back-end system development, always adopting a problem-solving mindset and delivering high-quality results. Beyond the technical aspects of my work, I am deeply curious and inspired by exploring new cultures and experiences, which fuels my creativity and drives me to innovate in every project I undertake.
+
+
 ![Visitor Count](https://profile-counter.glitch.me/{Grundrak}/count.svg)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrundrak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 ---
 
 ## 💡 Tech stack
