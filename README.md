@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://yourdomain.com/path-to-your-new-banner.png" alt="GitHub Banner" width="100%" />
+<img src="i.imgur.com/pQzb4Bt.jpeg" alt="GitHub Banner" width="100%" />
 
 <!-- Profile Section -->
 # 👋 Hi there! I'm **Sajir Ahmed**
